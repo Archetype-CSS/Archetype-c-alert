@@ -1,0 +1,12 @@
+{
+  "name": "Archetype-c-alert",
+  "version": "0.1.0",
+  "author": "Sam Ashley",
+  "main": "_c-alert.scss",
+  "ignore": [
+    ".*",
+    "CHANGELOG.md",
+    "package.json",
+    "/test"
+  ]
+}
